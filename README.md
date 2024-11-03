@@ -3,7 +3,7 @@
 <br> 
  <h3>Discord Stats</h3>
  <p align="center"> <img src="https://discord.c99.nl/widget/theme-3/988811090521653258.png" alt="nik" /> </p> 
- [![Discord Presence](https://lanyard.cnrad.dev/api/988811090521653258?showDisplayName=true&idleMessage=Chillin')](https://discord.com/users/988811090521653258)
+ [![Discord Presence](https://lanyard.cnrad.dev/api/988811090521653258)](https://discord.com/users/988811090521653258)
 <h3>Git Stats</h3>
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NotThERealNik&show_icons=true&theme=radical" alt="Git Stats" /> </p> 
  <br>
