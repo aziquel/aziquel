@@ -2,7 +2,7 @@
   <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=serif&duration=4000&color=03FFC4&center=true&vCenter=true&lines=I+am+Nik+a+11th+grade+student.;I+am+from+West+Bengal%2C+India.;I+am+a+Backend+Developer.;Thanks+for+checking+my+profile" alt="Nik" /> </p> 
 <br> 
  <h3>Discord Stats</h3>
- <p align="center"> <img src="https://discord.c99.nl/widget/theme-3/988811090521653258.png" alt="nik" /> </p> 
+ <a href="https://discord.com/users/1264044858642006016"><img src="https://lanyard.cnrad.dev/api/1264044858642006016" /></a>
 <h3>Git Stats</h3>
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NotThERealNik&show_icons=true&theme=radical" alt="Git Stats" /> </p> 
  <br>
