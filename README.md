@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About </h1>
-  <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=serif&duration=4000&color=03FFC4&center=true&vCenter=true&lines=I+am+Aziquel+a+11th+grade+student.;I+am+from+West+Bengal%2C+India.;I+am+a+Backend+Developer.;Thanks+for+checking+my+profile" alt="Nik" /> </p> 
+  <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=serif&duration=4000&color=ef42f5&center=true&vCenter=true&lines=I+am+Aziquel+a+11th+grade+student.;I+am+from+West+Bengal%2C+India.;I+am+a+Backend+Developer.;Thanks+for+checking+my+profile" alt="Nik" /> </p> 
 <br> 
  <h3>Discord Stats</h3>
  <a href="https://discord.com/users/1264044858642006016"><img src="https://lanyard.cnrad.dev/api/1264044858642006016" /></a>
