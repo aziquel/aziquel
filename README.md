@@ -4,13 +4,13 @@
  <h3>Discord Stats</h3>
  <a href="https://discord.com/users/1264044858642006016"><img src="https://lanyard.cnrad.dev/api/1264044858642006016" /></a>
 <h3>Git Stats</h3>
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NotThERealNik&show_icons=true&theme=radical" alt="Git Stats" /> </p> 
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aziquel&show_icons=true&theme=radical" alt="Git Stats" /> </p> 
  <br>
   
 <h3> My real-time Languages I code </h3>
  <p align="center"> 
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotThERealNik&show_icons=true&layout=compact&hide_border=true&theme=dark" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziquel&show_icons=true&layout=compact&hide_border=true&theme=dark" />
   
 
   
@@ -45,4 +45,4 @@
 
 <br>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/nyk.xx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imtiyazCode" /></a></p><br><br><br>
+<p><a href="https://www.buymeacoffee.com/aziquel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imtiyazCode" /></a></p><br><br><br>
